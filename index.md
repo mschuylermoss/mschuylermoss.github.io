@@ -1,3 +1,3 @@
-## Schuyler Moss
-# Master's Student at the University of Waterloo 
+# Schuyler Moss
+## Master's Student at the University of Waterloo 
 
