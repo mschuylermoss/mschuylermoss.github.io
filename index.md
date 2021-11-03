@@ -1,4 +1,4 @@
-
+# Schuyler Moss
 {:refdef: style="text-align: center;"}
 ![test image size](/pictures/gradpic.jpg){:refdef: height="40%" width="40%"}
 
