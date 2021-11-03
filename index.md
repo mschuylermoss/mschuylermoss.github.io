@@ -1,5 +1,5 @@
 {:refdef: style="text-align: center;"}
-![test image size](/pictures/gradpic.jpg){:class="img-responsive"}
+![test image size](/pictures/gradpic.jpg){:height="50%" width="50%"}
 
 # Schuyler Moss
 ## Master's Student at the University of Waterloo 
