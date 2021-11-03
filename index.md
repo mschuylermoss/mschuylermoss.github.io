@@ -1,4 +1,4 @@
-![photo](/pictures/gradpic.jpg)
+![gradpic](<img width=”250" height=”400" src=(/pictures/gradpic.jpg) />)
 
 # Schuyler Moss
 ## Master's Student at the University of Waterloo 
