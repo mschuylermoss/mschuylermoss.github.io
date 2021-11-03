@@ -2,7 +2,7 @@
 ## Master's Student at the University of Waterloo 
 
 {:refdef: style="text-align: center;"}
-![test image size](/pictures/gradpic.jpg){:refdef: height="50%" width="50%"}
+![test image size](/pictures/gradpic.jpg){:refdef: height="40%" width="40%"}
 
 
 
