@@ -1,3 +1,4 @@
+{:refdef: style="text-align: center;"}
 ![test image size](/pictures/gradpic.jpg){:class="img-responsive"}
 
 # Schuyler Moss
