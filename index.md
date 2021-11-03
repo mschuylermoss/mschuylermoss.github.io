@@ -1,7 +1,8 @@
 # Schuyler Moss
 ## Master's Student at the University of Waterloo 
 
-![test image size](/pictures/gradpic.jpg){:style="text-align: center;" height="50%" width="50%"}
+{:refdef: style="text-align: center;"}
+![test image size](/pictures/gradpic.jpg){:refdef: height="50%" width="50%"}
 
 
 
