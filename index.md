@@ -1,4 +1,4 @@
-![gradpic](/pictures/gradpic.jpg){:height="50%" width="50%"}
+![test image size](/pictures/gradpic.jpg){:class="img-responsive"}
 
 # Schuyler Moss
 ## Master's Student at the University of Waterloo 
