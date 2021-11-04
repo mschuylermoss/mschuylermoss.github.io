@@ -10,18 +10,40 @@ Hi, I'm Schuyler! I am a first year master's student at the University of Waterl
 
 I take lots of photos on a camera that my dad used when he was in college. It's a 1980's era Nikon FG that shoots 35mm. Here are some of the shots that I am particularly fond of.
 
-![test image size](/pictures/2 copy.JPG)
+![test image size](/pictures/boats.JPG)
 
-![test image size](/pictures/3 copy.JPG)
+![test image size](/pictures/brunch.JPG)
 
-![test image size](/pictures/7 copy.JPG)
+![test image size](/pictures/castro.JPG)
 
-![test image size](/pictures/14 copy 2.JPG)
+![test image size](/pictures/church.JPG)
 
-![test image size](/pictures/19 avl8 copy.JPG)
+![test image size](/pictures/classroom.JPG)
 
-![test image size](/pictures/19 exams2 copy.JPG)
+![test image size](/pictures/cows.JPG)
 
-![test image size](/pictures/20 copy.JPG)
+![test image size](/pictures/crow.JPG)
 
-![test image size](/pictures/25 copy.JPG)
+![test image size](/pictures/dune.JPG)
+
+![test image size](/pictures/flower in bag.JPG)
+
+![test image size](/pictures/happy.JPG)
+
+![test image size](/pictures/hello beautiful.JPG)
+
+![test image size](/pictures/horizon.JPG)
+
+![test image size](/pictures/IMAC.JPG)
+
+![test image size](/pictures/nash flowers.JPG)
+
+![test image size](/pictures/planetarium.JPG)
+
+![test image size](/pictures/protest.JPG)
+
+![test image size](/pictures/quad.JPG)
+
+![test image size](/pictures/stanford.JPG)
+
+![test image size](/pictures/walkerworld.JPG)
