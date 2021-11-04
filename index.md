@@ -10,26 +10,18 @@ Hi, I'm Schuyler! I am a first year master's student at the University of Waterl
 
 I take lots of photos on a camera that my dad used when he was in college. It's a 1980's era Nikon FG that shoots 35mm. Here are some of the shots that I am particularly fond of.
 
-{:refdef: style="text-align: center;"}
-![test image size](/pictures/2 copy.JPG){:refdef: height="70%" width="70%"}
+![test image size](/pictures/2 copy.JPG)
 
-{:refdef: style="text-align: center;"}
-![test image size](/pictures/3 copy.JPG){:refdef: height="70%" width="70%"}
+![test image size](/pictures/3 copy.JPG)
 
-{:refdef: style="text-align: center;"}
-![test image size](/pictures/7 copy.JPG){:refdef: height="70%" width="70%"}
+![test image size](/pictures/7 copy.JPG)
 
-{:refdef: style="text-align: center;"}
-![test image size](/pictures/14 copy 2.JPG){:refdef: height="70%" width="70%"}
+![test image size](/pictures/14 copy 2.JPG)
 
-{:refdef: style="text-align: center;"}
-![test image size](/pictures/19 avl8 copy.JPG){:refdef: height="70%" width="70%"}
+![test image size](/pictures/19 avl8 copy.JPG)
 
-{:refdef: style="text-align: center;"}
-![test image size](/pictures/19 exams2 copy.JPG){:refdef: height="70%" width="70%"}
+![test image size](/pictures/19 exams2 copy.JPG)
 
-{:refdef: style="text-align: center;"}
-![test image size](/pictures/20 copy.JPG){:refdef: height="70%" width="70%"}
+![test image size](/pictures/20 copy.JPG)
 
-{:refdef: style="text-align: center;"}
-![test image size](/pictures/25 copy.JPG){:refdef: height="70%" width="70%"}
+![test image size](/pictures/25 copy.JPG)
