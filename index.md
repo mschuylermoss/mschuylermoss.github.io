@@ -12,7 +12,7 @@ I take lots of photos on a camera that my dad used when he was in college. It's 
 
 ![test image size](/pictures/boats.JPG)
 
-![test image size](/pictures/brunch.JPG){style="center;" height="50%" width="50%"}
+![test image size](/pictures/brunch.JPG){:refdef: height="50%" width="50%"}
 
 ![test image size](/pictures/castro.JPG)
 
@@ -26,17 +26,17 @@ I take lots of photos on a camera that my dad used when he was in college. It's 
 
 ![test image size](/pictures/dune.JPG)
 
-![test image size](/pictures/flower in bag.JPG){style="center;" height="50%" width="50%"}
+![test image size](/pictures/flower in bag.JPG){:refdef: height="50%" width="50%"}
 
-![test image size](/pictures/happy.JPG){style="center;" height="50%" width="50%"}
+![test image size](/pictures/happy.JPG){:refdef: height="50%" width="50%"}
 
 ![test image size](/pictures/hello beautiful.JPG)
 
 ![test image size](/pictures/horizon.JPG)
 
-![test image size](/pictures/IMAC.JPG){style="center;" height="50%" width="50%"}
+![test image size](/pictures/IMAC.JPG){:refdef: height="50%" width="50%"}
 
-![test image size](/pictures/nash flowers.JPG){style="center;" height="50%" width="50%"}
+![test image size](/pictures/nash flowers.JPG){:refdef: height="50%" width="50%"}
 
 ![test image size](/pictures/planetarium.JPG)
 
