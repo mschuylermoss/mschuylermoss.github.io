@@ -24,21 +24,19 @@ I take lots of photos on a camera that my dad used when he was in college. It's 
 
 ![test image size](/pictures/crow.JPG)
 
+![test image size](/pictures/nash flowers.JPG){:refdef: height="50%" width="50%"}
+
 ![test image size](/pictures/dune.JPG)
 
 ![test image size](/pictures/flower in bag.JPG){:refdef: height="50%" width="50%"}
-
-![test image size](/pictures/happy.JPG){:refdef: height="50%" width="50%"}
 
 ![test image size](/pictures/hello beautiful.JPG)
 
 ![test image size](/pictures/horizon.JPG)
 
-![test image size](/pictures/IMAC.JPG){:refdef: height="50%" width="50%"}
-
-![test image size](/pictures/nash flowers.JPG){:refdef: height="50%" width="50%"}
-
 ![test image size](/pictures/planetarium.JPG)
+
+![test image size](/pictures/IMAC.JPG){:refdef: height="50%" width="50%"}
 
 ![test image size](/pictures/protest.JPG)
 
@@ -47,3 +45,5 @@ I take lots of photos on a camera that my dad used when he was in college. It's 
 ![test image size](/pictures/stanford.JPG)
 
 ![test image size](/pictures/walkerworld.JPG)
+
+![test image size](/pictures/happy.JPG){:refdef: height="50%" width="50%"}
