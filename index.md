@@ -12,7 +12,7 @@ I take lots of photos on a camera that my dad used when he was in college. It's 
 
 ![test image size](/pictures/boats.JPG)
 
-{:refdef: style="text-align: center;"}![test image size](/pictures/brunch.JPG){:refdef: height="66%" width="66%"}
+{:refdef: style="text-align: center;"}[test image size](/pictures/brunch.JPG){:refdef: height="50%" width="50%"}
 
 ![test image size](/pictures/castro.JPG)
 
