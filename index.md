@@ -116,7 +116,7 @@ I take lots of photos on a camera that my dad used when he was in college. It's 
 
 ![test image size](/pictures/waterfalls.JPG)
 
-![test image size](/pictures/whiteout.heic)
+![test image size](/pictures/whiteout.png)
 
 ![test image size](/pictures/whitesands flower.JPG){:refdef: height="50%" width="50%"}
 
