@@ -47,3 +47,77 @@ I take lots of photos on a camera that my dad used when he was in college. It's 
 ![test image size](/pictures/walkerworld.JPG)
 
 ![test image size](/pictures/happy.JPG){:refdef: height="50%" width="50%"}
+
+![test image size](/pictures/aspens shadows.JPG){:refdef: height="50%" width="50%"}
+
+![test image size](/pictures/bark.JPG)
+
+![test image size](/pictures/barn.JPG){:refdef: height="50%" width="50%"}
+
+![test image size](/pictures/bells summer.JPG)
+
+![test image size](/pictures/bonfire.JPG)
+
+![test image size](/pictures/bowl.JPG)
+
+![test image size](/pictures/cactus flower.JPG)
+
+![test image size](/pictures/columbine.JPG)
+
+![test image size](/pictures/corona.JPG)
+
+![test image size](/pictures/double arch.JPG){:refdef: height="50%" width="50%"}
+
+![test image size](/pictures/durham building.JPG){:refdef: height="50%" width="50%"}
+
+![test image size](/pictures/fins.JPG)
+
+![test image size](/pictures/fireweed.JPG)
+
+![test image size](/pictures/fish.JPG)
+
+![test image size](/pictures/flamingos.JPG)
+
+![test image size](/pictures/garden flowers.JPG)
+
+![test image size](/pictures/green aspens.JPG){:refdef: height="50%" width="50%"}
+
+![test image size](/pictures/haze bells.JPG){:refdef: height="50%" width="50%"}
+
+![test image size](/pictures/longshot view.JPG){:refdef: height="50%" width="50%"}
+
+![test image size](/pictures/medoc.JPG)
+
+![test image size](/pictures/nc face.JPG)
+
+![test image size](/pictures/night fire.JPG){:refdef: height="50%" width="50%"}
+
+![test image size](/pictures/old building.JPG)
+
+![test image size](/pictures/parrots.JPG){:refdef: height="50%" width="50%"}
+
+![test image size](/pictures/pass.JPG){:refdef: height="50%" width="50%"}
+
+![test image size](/pictures/poppies.JPG)
+
+![test image size](/pictures/punchbowl.JPG){:refdef: height="50%" width="50%"}
+
+![test image size](/pictures/snowy trees.JPG)
+
+![test image size](/pictures/sopris.JPG)
+
+![test image size](/pictures/sunny aspens.JPG){:refdef: height="50%" width="50%"}
+
+![test image size](/pictures/tulips.JPG){:refdef: height="50%" width="50%"}
+
+![test image size](/pictures/van.JPG)
+
+![test image size](/pictures/wall roses.JPG)
+
+![test image size](/pictures/waterfalls.JPG)
+
+![test image size](/pictures/whiteout.heic)
+
+![test image size](/pictures/whitesands flower.JPG){:refdef: height="50%" width="50%"}
+
+![test image size](/pictures/whitesands hike.JPG)
