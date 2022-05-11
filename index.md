@@ -1,9 +1,9 @@
-<body>
-  <h1>Schuyler Moss</h1>
-</body>
+<p align="center">
+    # Schuyler Moss
+</p>
    
 <p align="center">
-   <img src = "/pictures/gradpic.jpg" />
+   <img width = "200" src = "/pictures/gradpic.jpg" />
  </p>
 
 
