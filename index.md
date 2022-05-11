@@ -1,6 +1,6 @@
 # Schuyler Moss
 <p align="center">
-   <img src = ![test image size](/pictures/gradpic.jpg) />
+   <img src = "/pictures/gradpic.jpg" />
  </p>
 
 
