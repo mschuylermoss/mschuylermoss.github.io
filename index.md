@@ -1,6 +1,4 @@
-<p align="center">
-    # Schuyler Moss
-</p>
+# Schuyler Moss
    
 <p align="center">
    <img width = "200" src = "/pictures/gradpic.jpg" />
