@@ -5,23 +5,19 @@
  </p>
 
 
-Hi, I'm Schuyler! I am a first year master's student at the University of Waterloo where I work with Roger Melko and the Perimeter Institute Quantum Intelligence Lab, or the [PIQuIL](https://perimeterinstitute.ca/perimeter-institute-quantum-intelligence-lab-piquil). Previously, I attended the University of North Carolina at Chapel Hill where I studied physics and mathematics, earning Highest Honors for the defense of my [senior honors thesis](https://cdr.lib.unc.edu/concern/honors_theses/kk91fs099). Though my undergraduate research experiences span a number of fields, I mostly worked with Joaquín Drut and his [Computational Quantum Matter](https://drut.web.unc.edu/) group.
+Hi, I'm Schuyler! I am a PhD student at the University of Waterloo where I work with Roger Melko and the Perimeter Institute Quantum Intelligence Lab, or the [PIQuIL](https://perimeterinstitute.ca/perimeter-institute-quantum-intelligence-lab-piquil). Previously, I attended the University of North Carolina at Chapel Hill where I studied physics and mathematics, earning Highest Honors for the defense of my [senior honors thesis](https://cdr.lib.unc.edu/concern/honors_theses/kk91fs099). Though my undergraduate research experiences span a number of fields, I mostly worked with Joaquín Drut and his [Computational Quantum Matter](https://drut.web.unc.edu/) group.
  
 ## Research Updates
 
-My first project as a graduate student was [recently published in Physical Review B](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.205108). This was a really nice project and there are lots of interesting opportunities for follow up projects (so stay tuned)! I also worked with some great people, which is always an added bonus. I got to present this work at the Toulouse School for Machine Learning and Quantum Many Body Physics in April 2022.
+My first project as a graduate student was [recently published in Physical Review B](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.205108). This was a really nice project and there are lots of interesting opportunities for follow up projects (so stay tuned)! I also worked with some great people, which made it even more fun. I got to present this work at the Toulouse School for Machine Learning and Quantum Many Body Physics in April 2022, at the IAIFI PhD Summer School in August 2022, and at the 21st annual International Conference on Recent Progress in Many-Body Theories, where I was recognized as one of the [best student presentations]{https://tarheels.live/rpmbt21/2022/09/18/laptop-awardees-announced/}.
 
-This summer I am working on a couple of those aforementioned follow up projects in addition to some new and exciting applications of [RNN Wavefunctions](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023358).
-
-In other news, I am officially "fast-tracking" from my Master's position to a PhD student this summer. Over the course of the next year, I will be finishing up course requirements and preparing for my comprehensive exam.
+I am currently working on a couple of those aforementioned follow up projects in addition to some new and exciting applications of [RNN Wavefunctions](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023358).
 
 ## Non-Physics Fun
 
-When I am not working, I'm likely sitting on my front porch reading, tracking down the best cup of coffee, partaking in some form of cardio, or getting lost in the woods. I've never met a body of water I didn't like, I'm a competitive but indcredibly mediocre chess player, and it seems I have a unique music taste for every permutation of the follwoing: season, weather, setting, activity, company, how I felt when I woke up, etc...
+When I am not working, I'm likely sitting on my front porch reading, tracking down the best cup of coffee, partaking in some form of cardio, or getting lost in the woods. I've never met a body of water I didn't like, I'm a competitive but indcredibly mediocre chess player, and I love talking to strangers.
 
-With the turn of the weather, I have been re-igniting my love for sports like Soccer and Tennis. I am looking forward to a low-key summer here in Waterloo, enjoying the green parks and the nearby Bruce Trail. I'm dying to go "up north" for a canoeing trip (in true Canadian fashion). 
-
-If you have talked to me for more than 15 minutes, you probably know how much I love skiing and the mountains. I learned late in life, as in I did not grow up skiing, which has left me with an insatiable urgency to ski as much as possible. That's pretty hard to do here in Ontario... Colorado and the Canadian Rockies are constantly calling.
+I am currently training for a half-marathon and it has felt really good to put more effort into my running! After the half (Dec 10th), all energy will go towards winter activities (my favorite) like skating, cross-country skiing, and downhill skiing whenever possible.
 
 ## Film Photos
 
