@@ -1,7 +1,7 @@
 # Schuyler Moss
    
 <p align="center">
-   <img width = "200" src = "/pictures/gradpic.jpg" />
+   <img width = "200" src = "/pictures/PIshot" />
  </p>
 
 
